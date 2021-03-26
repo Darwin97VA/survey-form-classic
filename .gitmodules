@@ -1,0 +1,3 @@
+[submodule "packages/survey-form-classic"]
+	path = packages/survey-form-classic
+	url = https://github.com/Darwin97VA/survey-form-classic
