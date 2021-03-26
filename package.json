@@ -1,0 +1,10 @@
+{
+  "name": "survey-form-classic",
+  "version": "0.0.1",
+  "description": "Classic Survey Form Builder Template Survey Form.",
+  "main": "index.js",
+  "repository": "https://github.com/Darwin97VA/survey-form-classic.git",
+  "author": "Darwin Stalin Vilcachagua Ayala <darwin97.va@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
