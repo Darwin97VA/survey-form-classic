@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  E:\programs\cmder\bin;E:\programs\cmder\vendor\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\PowerShell\7\;C:\Users\Darwin\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Kubernetes\Minikube;C:\Program Files\Go\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\PuTTY\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\Darwin\.cargo\bin;C:\laragon\bin;C:\laragon\bin\apache\httpd-2.4.35-win64-VC15\bin;C:\laragon\bin\composer;C:\laragon\bin\laragon\utils;C:\laragon\bin\mysql\mysql-5.7.24-winx64\bin;C:\laragon\bin\nginx\nginx-1.16.0;C:\laragon\bin\ngrok;C:\laragon\bin\notepad++;C:\laragon\bin\php\php-7.4.16-Win32-vc15-x64;C:\laragon\bin\putty;C:\laragon\bin\redis\redis-x64-3.2.100;C:\laragon\bin\telnet;C:\laragon\usr\bin;C:\Users\Darwin\AppData\Local\Yarn\config\global\node_modules\.bin;C:\Users\Darwin\AppData\Roaming\Composer\vendor\bin;C:\Users\Darwin\AppData\Roaming\npm;C:\Users\Darwin\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Darwin\AppData\Local\Programs\Python\Python39\;C:\Users\Darwin\AppData\Local\Microsoft\WindowsApps;C:\Users\Darwin\AppData\Local\Programs\Microsoft VS Code\bin;C:\flutter\bin;C:\Users\Darwin\AppData\Local\Android\Sdk\tools;C:\Users\Darwin\.deno\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;E:\programs\cmder
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.4
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\Darwin\AppData\Roaming\nvm\v14.15.4\node_modules\yarn\lib\cli.js:136216:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:875:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1144:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (internal/streams/readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
